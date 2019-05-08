@@ -9,6 +9,7 @@ To complete this project we need to host a linux server instance. This website i
 - Public IP Address - 52.90.89.231
 - SSH port - 2200
 - Website address to view live application - 52.90.89.231.xip.io
+I have removed the instance so this ip is no longer working
 ## Resources Used on server to build website
   - Apache2 server
   - WSGI
